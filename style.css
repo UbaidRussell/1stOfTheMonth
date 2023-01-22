@@ -4,13 +4,10 @@
     text-align: center;
 }
 body{
-    background-color: #B2B2B2;
+    background-color: #B9F3FC;
 }
 .container{
     font-family:'Roboto', sans-serif;
-    color:black;
-    position:absolute;
-    top:50%;
-    left: 50%;
-    font-size: large;
+    color: black;
+    margin-top: 200px;
 }
